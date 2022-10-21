@@ -1,0 +1,204 @@
+
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.para {
+    margin: 36px;
+    margin-top: 1px;
+}
+.detailedd{
+    padding-top: 70px;
+}
+
+.mark{
+    background-color: red;
+    color: red;
+}
+hr{
+    margin-top: 115px;
+    width: 50rem;
+    height: 2px!important;
+}
+.review{
+    margin-top: -8rem;
+}
+.detailed{
+    padding-top: 30px;
+}
+.footer-section{
+    margin-left: 160px;
+}
+
+.svg-inline--fa {
+  vertical-align: -0.200em;
+}
+
+.rounded-social-buttons {
+  text-align: center;
+}
+
+.rounded-social-buttons .social-button {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+  width: 3.125rem;
+  height: 3.125rem;
+  border: 0.125rem solid transparent;
+  padding: 0;
+  text-decoration: none;
+  text-align: center;
+  color: #fefefe;
+  font-size: 1.5625rem;
+  font-weight: normal;
+  line-height: 2em;
+  border-radius: 1.6875rem;
+  transition: all 0.5s ease;
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.rounded-social-buttons .social-button:hover, .rounded-social-buttons .social-button:focus {
+  -webkit-transform: rotate(360deg);
+      -ms-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+
+.rounded-social-buttons .fa-twitter, .fa-facebook-f, .fa-linkedin, .fa-youtube, .fa-instagram {
+  font-size: 25px;
+}
+
+.rounded-social-buttons .social-button.facebook {
+  background: #3b5998;
+}
+
+.rounded-social-buttons .social-button.facebook:hover, .rounded-social-buttons .social-button.facebook:focus {
+  color: #3b5998;
+  background: #fefefe;
+  border-color: #3b5998;
+}
+
+.rounded-social-buttons .social-button.twitter {
+  background: #55acee;
+}
+
+.rounded-social-buttons .social-button.twitter:hover, .rounded-social-buttons .social-button.twitter:focus {
+  color: #55acee;
+  background: #fefefe;
+  border-color: #55acee;
+}
+
+.rounded-social-buttons .social-button.linkedin {
+  background: #007bb5;
+}
+
+.rounded-social-buttons .social-button.linkedin:hover, .rounded-social-buttons .social-button.linkedin:focus {
+  color: #007bb5;
+  background: #fefefe;
+  border-color: #007bb5;
+}
+
+.rounded-social-buttons .social-button.youtube {
+  background: #bb0000;
+}
+
+.rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
+  color: #bb0000;
+  background: #fefefe;
+  border-color: #bb0000;
+}
+
+.rounded-social-buttons .social-button.instagram {
+  background: #125688;
+}
+
+.rounded-social-buttons .social-button.instagram:hover, .rounded-social-buttons .social-button.instagram:focus {
+  color: #125688;
+  background: #fefefe;
+  border-color: #125688;
+}
+
+.detaile-hr, .detaile-hr1{
+    margin-left: 8rem;
+}
+.detailed-hr2{
+    margin-left:8rem; 
+    width: 72rem;
+}
+.detailed-hr3{
+  margin-left:8rem;
+  width: 72rem;
+}
+.footer-section li{
+    color: blue;
+}
+
+
+@media (max-width: 992px){
+    body{
+        overflow-x: hidden;
+    }
+    .para {
+        margin-top: -245px; 
+        margin-left: 9rem;
+    }
+    .detaile-hr, .detaile-hr1, .detailed-hr2{
+        margin-left: 1px;
+    }
+    .button1{
+        margin-left: -15rem;
+        margin-bottom: 7rem;
+        margin-right: 10rem;
+        margin-top: -7rem;
+    }
+    .line-draw{
+        width: 20rem;
+    }
+    .sidebar{
+        margin-bottom: 146px;
+        padding-left: 15px;
+        text-align: center;
+    }
+    .form-check{
+        margin-left: 143px;
+        margin-top: -9px;
+    }
+    .overview{
+        text-align: center;
+        margin-top: 25px;
+}
+.button2{
+    margin-left: -3rem;
+}
+.line-draw2{
+    display: none;
+}
+.detailedd{
+    text-align: center;
+    margin-top: -68px;
+}
+.detail, .detailed, .button3, .info, .user, .user-detailed{
+    text-align: center;
+}
+.button4{
+    margin-left: -4rem;
+}
+.detailed-hr3{
+  margin-left: 0px;
+}
+.user-info{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.user-info1{
+    margin-bottom: 20px;
+}
+.footer-section{
+    margin-left: 0rem;
+}
+}
+
